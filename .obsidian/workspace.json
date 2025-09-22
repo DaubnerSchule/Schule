@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E/Stoffüberblick.md",
+                "file": "MEDT/Stoff/Farben oder Farblehre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stoffüberblick"
+              "title": "Farben oder Farblehre"
             }
           }
         ]
@@ -177,13 +177,14 @@
       "templates:Insert template": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "card-board:CardBoard": false
     }
   },
   "active": "79ef29a09d86a7f4",
   "lastOpenFiles": [
-    "E/Notengebung.md",
     "E/Stoffüberblick.md",
+    "E/Notengebung.md",
     "2025-09-29 NWT Smüp.md",
     "NWT/Stoff/OSI.md",
     "NWT/Notengebung.md",
