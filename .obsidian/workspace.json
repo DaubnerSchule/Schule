@@ -40,9 +40,19 @@
               "icon": "lucide-file",
               "title": "0. Wirtschaftskreislauf"
             }
+          },
+          {
+            "id": "892fe00c610cf343",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,7 +211,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c7f749f6c7338690",
+  "active": "892fe00c610cf343",
   "lastOpenFiles": [
     "ITP/Stoff/Firma Produkt.md",
     "ITP/Stoff/0.1 drawing.md",
