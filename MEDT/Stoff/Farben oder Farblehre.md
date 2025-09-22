@@ -54,4 +54,11 @@ Licht ist im sichtbaren Bereich
 
 Farbe zuordnung von Wellenlängen
 
-**Es gibt kein Magenta / Violett**
+**Es gibt kein Magenta / Violett** in der Natur.
+Es entsteht nur durch Mischung von Farben.
+
+# Licht
+> Lumen
+
+Candela
+Lichtstärke (lumen), welches aber auch Winkel beachtet.
