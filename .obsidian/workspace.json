@@ -4,24 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "6726aa9f5595a6ef",
+        "id": "6cf7450d60922cd5",
         "type": "tabs",
         "children": [
           {
-            "id": "79ef29a09d86a7f4",
+            "id": "d1aac8cedb1e1a84",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "67b740fce3a34c20",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {},
+              "icon": "card-board",
+              "title": "CardBoard"
+            }
+          },
+          {
+            "id": "c7f749f6c7338690",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MEDT/Stoff/Farben oder Farblehre.md",
+                "file": "ITP/Stoff/0. Wirtschaftskreislauf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Farben oder Farblehre"
+              "title": "0. Wirtschaftskreislauf"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,28 +198,32 @@
       "templates:Insert template": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "79ef29a09d86a7f4",
+  "active": "c7f749f6c7338690",
   "lastOpenFiles": [
+    "ITP/Stoff/Firma Produkt.md",
+    "ITP/Stoff/0.1 drawing.md",
+    "ITP/Stoff/0. Wirtschaftskreislauf.md",
+    "2025-09-29 ITP Smüp Wirtschaftskreis.md",
+    "Drawing 2025-09-22 08.00.38.excalidraw.md",
+    "Aufgaben.md",
+    "MEDT/Stoff/Farben oder Farblehre.md",
     "E/Stoffüberblick.md",
     "E/Notengebung.md",
     "2025-09-29 NWT Smüp.md",
     "NWT/Stoff/OSI.md",
     "NWT/Notengebung.md",
-    "Drawing 2025-09-22 08.00.38.excalidraw.md",
     "NWT/Stoffüberblick.md",
     "2025-09-24 Englisch Vocab U10 Smüp.md",
-    "Aufgaben.md",
     "Chemie/Stoff/Einleitung.md",
     "Chemie/Stoff/Piktogramme.svg",
     "Chemie/Stoff/Abb_v02.md",
     "Gefahrenpiktogramme.md",
     "Chemie/Stoff/Nicht bestätigt 357046.crdownload",
     "Chemie/Stoff/Abb_v01.md",
-    "ITP/Stoff/0. Wirtschaftskreislauf.md",
-    "ITP/Stoff/Firma Produkt.md",
     "ITP/Stoff",
     "ITP",
     "Kalender",
@@ -217,9 +242,6 @@
     "Drawing 2025-09-16 13.30.19.excalidraw.md",
     "SYT-G/Stoff/0-Protokol/WieManProtokoleMacht-png.png",
     "MEDT/Notengebung.md",
-    "MEDT/Stoff/Farben oder Farblehre.md",
-    "Drawing 2025-09-15 21.56.46.excalidraw.md",
-    "Drawing 2025-09-15 22.32.41.excalidraw.md",
     "Pasted image 20250915222614.png",
     "Untitled.canvas"
   ]
