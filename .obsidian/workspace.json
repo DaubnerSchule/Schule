@@ -177,8 +177,7 @@
       "templates:Insert template": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "card-board:CardBoard": false
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
   "active": "79ef29a09d86a7f4",
