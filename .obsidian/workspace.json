@@ -50,9 +50,87 @@
               "icon": "calendar-glyph",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "7737bc8acd92be6a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "ITP/Stoff/0.1 drawing.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "0.1 drawing"
+            }
+          },
+          {
+            "id": "6a9b7c86eb3bd3d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MEDT/Stoff/Farben oder Farblehre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Farben oder Farblehre"
+            }
+          },
+          {
+            "id": "0eaabdcd15b6cd35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E/Notengebung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notengebung"
+            }
+          },
+          {
+            "id": "d1cb315a6c356108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vocab"
+            }
+          },
+          {
+            "id": "0f542f0c74b01876",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "5b41143ac45dc526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ITP/Stoff/AngebotUndNachfrage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AngebotUndNachfrage"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -170,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYT-IT/Stoffüberblick.md",
+                "file": "ITP/Stoff/AngebotUndNachfrage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,26 +258,15 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Stoffüberblick"
-            }
-          },
-          {
-            "id": "006d362e911832ab",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Backlinks for AngebotUndNachfrage"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,26 +274,34 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "892fe00c610cf343",
+  "active": "28626552a96c88e5",
   "lastOpenFiles": [
-    "ITP/Stoff/Firma Produkt.md",
     "ITP/Stoff/0.1 drawing.md",
+    "ITP/Stoff/AngebotUndNachfrage.md",
+    "ITP/Stoff/Firma Produkt.md",
+    "ITP/Stoff/Markt und Mitwerberanalyse.md",
     "ITP/Stoff/0. Wirtschaftskreislauf.md",
-    "2025-09-29 ITP Smüp Wirtschaftskreis.md",
-    "Drawing 2025-09-22 08.00.38.excalidraw.md",
     "Aufgaben.md",
-    "MEDT/Stoff/Farben oder Farblehre.md",
-    "E/Stoffüberblick.md",
-    "E/Notengebung.md",
+    "2025-10-01 s122 Englisch HÜ.md",
     "2025-09-29 NWT Smüp.md",
+    "2025-09-29 ITP Smüp Wirtschaftskreis.md",
+    "2025-09-24 Englisch Vocab U10 Smüp.md",
+    "SEW/Stoffüberblick.md",
+    "SEW/Notengebung.md",
+    "SYT-G/Stoff/0-Protokol/WieManProtokoleMacht-png.png",
+    "E/Notengebung.md",
+    "Vocab.md",
+    "Illustrator.md",
+    "MEDT/Stoff/Farben oder Farblehre.md",
+    "Drawing 2025-09-22 08.00.38.excalidraw.md",
+    "E/Stoffüberblick.md",
     "NWT/Stoff/OSI.md",
     "NWT/Notengebung.md",
     "NWT/Stoffüberblick.md",
-    "2025-09-24 Englisch Vocab U10 Smüp.md",
     "Chemie/Stoff/Einleitung.md",
     "Chemie/Stoff/Piktogramme.svg",
     "Chemie/Stoff/Abb_v02.md",
@@ -237,20 +312,12 @@
     "ITP",
     "Kalender",
     "().md",
-    "Drawing 2025-09-16 19.10.11.excalidraw.md",
-    "Drawing 2025-09-17 07.55.50.excalidraw.md",
     "SEW/Aufgaben/02-Kino/out/production/02-Kino/Main.class",
     "SEW/Aufgaben/02-Kino/src/Main.java~",
     "SEW/Aufgaben/02-Kino/out/production/02-Kino",
     "SEW/Aufgaben/02-Kino/out/production",
     "SEW/Aufgaben/02-Kino/out",
     "SEW/Aufgaben/02-Kino/02-Kino.iml",
-    "Drawing 2025-09-16 13.36.03.excalidraw.md",
-    "Chemie/Stoffüberblick.md",
-    "Chemie/Notengebung.md",
-    "Drawing 2025-09-16 13.30.19.excalidraw.md",
-    "SYT-G/Stoff/0-Protokol/WieManProtokoleMacht-png.png",
-    "MEDT/Notengebung.md",
     "Pasted image 20250915222614.png",
     "Untitled.canvas"
   ]
