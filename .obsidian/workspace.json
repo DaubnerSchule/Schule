@@ -121,16 +121,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITP/Stoff/AngebotUndNachfrage.md",
+                "file": "Chemie/Stoff/01 - Einleitung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AngebotUndNachfrage"
+              "title": "01 - Einleitung"
+            }
+          },
+          {
+            "id": "b58031cde7bf11f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Richtiger Umgang mit Laptop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Richtiger Umgang mit Laptop"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -248,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/Stoff/AngebotUndNachfrage.md",
+                "file": "Richtiger Umgang mit Laptop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,7 +272,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AngebotUndNachfrage"
+              "title": "Backlinks for Richtiger Umgang mit Laptop"
             }
           }
         ],
@@ -278,10 +292,14 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "28626552a96c88e5",
+  "active": "b58031cde7bf11f3",
   "lastOpenFiles": [
-    "ITP/Stoff/0.1 drawing.md",
+    "Chemie/Stoff/01 - Einleitung.md",
+    "Richtiger Umgang mit Laptop.md",
+    "Chemie/Stoff/Piktogramme.svg",
+    "Chemie/Stoff/Abb_v01.md",
     "ITP/Stoff/AngebotUndNachfrage.md",
+    "ITP/Stoff/0.1 drawing.md",
     "ITP/Stoff/Firma Produkt.md",
     "ITP/Stoff/Markt und Mitwerberanalyse.md",
     "ITP/Stoff/0. Wirtschaftskreislauf.md",
@@ -292,7 +310,7 @@
     "2025-09-24 Englisch Vocab U10 Smüp.md",
     "SEW/Stoffüberblick.md",
     "SEW/Notengebung.md",
-    "SYT-G/Stoff/0-Protokol/WieManProtokoleMacht-png.png",
+    "SYT-OS/Stoff/0-Protokol/WieManProtokoleMacht-png.png",
     "E/Notengebung.md",
     "Vocab.md",
     "Illustrator.md",
@@ -302,16 +320,12 @@
     "NWT/Stoff/OSI.md",
     "NWT/Notengebung.md",
     "NWT/Stoffüberblick.md",
-    "Chemie/Stoff/Einleitung.md",
-    "Chemie/Stoff/Piktogramme.svg",
     "Chemie/Stoff/Abb_v02.md",
     "Gefahrenpiktogramme.md",
     "Chemie/Stoff/Nicht bestätigt 357046.crdownload",
-    "Chemie/Stoff/Abb_v01.md",
     "ITP/Stoff",
     "ITP",
     "Kalender",
-    "().md",
     "SEW/Aufgaben/02-Kino/out/production/02-Kino/Main.class",
     "SEW/Aufgaben/02-Kino/src/Main.java~",
     "SEW/Aufgaben/02-Kino/out/production/02-Kino",

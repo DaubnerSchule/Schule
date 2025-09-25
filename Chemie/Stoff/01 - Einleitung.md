@@ -1,3 +1,4 @@
+# Einleitung
 ## Unterschied Chemie / Physik
 
 ![Diagramm v0.1](Abb_v01)
@@ -42,3 +43,11 @@ Bedeutung Stoff... / Gegenstand:
 - LD50 (Lethale Dosis): Lethale Dosis pro kg Lebengewicht bei der 50% tötlich endet.
 
 > zB: LD50 mouse: 400 mg/kg
+
+## Sicherheitsdatenblatt
+>Info:
+zB Aceton
+
+Sicherheitsdatenblätter:
+- SDB
+- MSDS (engl.)
