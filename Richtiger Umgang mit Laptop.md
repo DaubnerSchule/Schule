@@ -1,7 +1,7 @@
 Kein Virus im Netzwerk:
 - Firewall
 - Immer neueste Versionen
-- Antivierenschutz
+- Antivirenschutz
 - Passwort Manager
 
 Passwort:
