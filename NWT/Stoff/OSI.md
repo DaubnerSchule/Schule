@@ -5,3 +5,5 @@
 Weil es es *jeder* benutzt (microsoft)
 
 - Microsoft hat es damals zum Standart gemacht, und jeder andere ist auch aufgesprungen, obwohl es ==damals schon== schnellere Protokolle gab!
+
+![OSI Bild](osi.png)

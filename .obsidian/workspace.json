@@ -166,9 +166,33 @@
               "icon": "lucide-file",
               "title": "Laufzeitkomplexität"
             }
+          },
+          {
+            "id": "544c53a328e4cd3a",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "6b83dde4f061bf7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NWT/Stoff/OSI.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OSI"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -226,7 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 251.50499725341797
   },
   "right": {
     "id": "7ccab34a585e04e5",
@@ -286,7 +310,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW/Stoff/Laufzeitkomplexität.md",
+                "file": "NWT/Stoff/OSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +320,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Laufzeitkomplexität"
+              "title": "Backlinks for OSI"
             }
           }
         ],
@@ -316,13 +340,17 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "c9925679ce793e46",
+  "active": "6b83dde4f061bf7c",
   "lastOpenFiles": [
-    "README",
+    "NWT/Stoff/osi.png",
+    "NWT/Stoff/Nicht bestätigt 855741.crdownload",
+    "NWT/Notengebung.md",
+    "NWT/Stoffüberblick.md",
     "NWT/Stoff/OSI.md",
+    "README",
     "SEW/Stoff/Laufzeitkomplexität.md",
     "Chemie/Stoff/01 - Einleitung.md",
-    "Richtiger Umgang mit Laptop.md",
+    "SYT-OS/Richtiger Umgang mit Laptop.md",
     "Chemie/Stoff/Piktogramme.svg",
     "Chemie/Stoff/Abb_v01.md",
     "ITP/Stoff/AngebotUndNachfrage.md",
@@ -332,7 +360,7 @@
     "ITP/Stoff/0. Wirtschaftskreislauf.md",
     "Aufgaben.md",
     "2025-10-01 s122 Englisch HÜ.md",
-    "2025-09-29 NWT Smüp.md",
+    "2025-09-28 NWT Smüp.md",
     "2025-09-29 ITP Smüp Wirtschaftskreis.md",
     "2025-09-24 Englisch Vocab U10 Smüp.md",
     "SEW/Stoffüberblick.md",
@@ -344,8 +372,6 @@
     "MEDT/Stoff/Farben oder Farblehre.md",
     "Drawing 2025-09-22 08.00.38.excalidraw.md",
     "E/Stoffüberblick.md",
-    "NWT/Notengebung.md",
-    "NWT/Stoffüberblick.md",
     "Chemie/Stoff/Nicht bestätigt 357046.crdownload",
     "ITP/Stoff",
     "ITP",
@@ -354,8 +380,6 @@
     "SEW/Aufgaben/02-Kino/src/Main.java~",
     "SEW/Aufgaben/02-Kino/out/production/02-Kino",
     "SEW/Aufgaben/02-Kino/out/production",
-    "SEW/Aufgaben/02-Kino/out",
-    "SEW/Aufgaben/02-Kino/02-Kino.iml",
     "Pasted image 20250915222614.png",
     "Untitled.canvas"
   ]
